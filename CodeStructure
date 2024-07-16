@@ -1,0 +1,42 @@
+// Code Structure
+
+class ViewController: UIViewController {
+    
+    //MARK: - Outlets
+    
+    //MARK: - Variable
+    
+    //MARK: - Lifecycle Methods
+    override func viewDidLoad() {
+        setupView()
+    }
+    
+    //MARK: - Custom Methods
+    private func setupView() {
+    }
+    
+    //MARK: - Actions
+}
+
+//MARK: - Tableview Delegate Methods
+extension ViewController: UITableViewDelegate, UITableViewDataSource {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return 0
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        return UITableViewCell()
+    }
+}
+
+
+//MARK: - CollectionView Delegate Methods
+extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 0
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        return UICollectionViewCell()
+    }
+}
