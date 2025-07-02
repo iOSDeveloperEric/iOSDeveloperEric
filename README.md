@@ -2,7 +2,7 @@
 - 👀 I’m interested in building Mobile Apps for iOS 
 - 🌱 I’m currently learning Swift Programming
 - 💞️ I’m looking to collaborate on exploring Swift 
-- 📫 How to reach me ericparker30.inbox@gmail.com
+- 📫 How to reach me raj05.inbox@gmail.com
 
 
 
