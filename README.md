@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iOSDeveloperEric
+- 👋 Hi, I’m @iOSDeveloperRaj
 - 👀 I’m interested in building Mobile Apps for iOS 
 - 🌱 I’m currently learning Swift Programming
 - 💞️ I’m looking to collaborate on exploring Swift 
